@@ -1,0 +1,4 @@
+BLUE      GREEN
+2
+Circle   203   431   272   609   287   BLUE   NOT_FILLED
+Hexagon   303   577   202   687   202   742   298   687   393   577   393   522   298   632   298   BLUE   NOT_FILLED

@@ -1,0 +1,3 @@
+BLUE      GREEN
+3
+Hexagon   301   245   98   355   98   410   194   355   289   245   289   190   194   300   194   BLUE   YELLOW

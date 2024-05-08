@@ -1,0 +1,4 @@
+BLUE      GREEN
+2
+Square   251   355   126   465   126   355   236   465   236   BLUE   NOT_FILLED
+Circle   203   634   235   784   255   BLUE   NOT_FILLED
